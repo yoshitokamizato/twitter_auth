@@ -1,24 +1,6 @@
 # README
+Twitter認証機能を実装し、dotenv-railsを使ってAPI KEYを環境変数に設定しました。
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+ログイン機能を実装する際の見本としてご活用ください。
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+また、不明な点は神里にご質問ください。
